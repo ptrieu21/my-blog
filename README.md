@@ -5,9 +5,9 @@
 
 Submitted by: **Pham Vuong Trieu**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: **https://my-blog-trieu.herokuapp.com**
 
 ## User Stories
 
@@ -19,7 +19,7 @@ The following is a list of **required** features of the application you'll build
 * [x] There is one Article that introduces the App Creator with name & picture.
 * [x] User see a search form on the Articles page.
 * [x] When the User attempts to delete an Article there is an alert modal which asks the User to confirm deletion of that specific Article.
-* [ ] User can submit a search term to find Articles with titles or body containing search terms.
+* [x] User can submit a search term to find Articles with titles or body containing search terms.
 * [x] User can create, edit, and delete comments on an Article.
 * [x] User can navigate the application with a responsive navbar.
       http://v4-alpha.getbootstrap.com/examples/navbar/.
